@@ -16,7 +16,7 @@
 ## 👥 R&D Team
 1. **Iliya Nazmehr** (Principal Architect & Senior Backend Engineer)
 2. **User 2** (AI Engineering & Prompt Design)
-3. **User 3** (Database Architect)
+3. **Hanie Matini** (Database Architect)
 4. **User 4** (Software Requirement Analysis & UI/UX)
 5. **User 5** (Security Analyst & QA)
 
